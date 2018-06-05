@@ -14,8 +14,8 @@ public class LabeledFor {
 						System.out.println(i+" "+j);
 					}
 			}
-	//for(;;)
-		//System.out.println("Infinite loop");  //Infinite for loop can be implemented by 2 semicolons
+	/*for(;;)
+		System.out.println("Infinite loop");  //Infinite for loop can be implemented by 2 semicolons */
 
 	}
 
